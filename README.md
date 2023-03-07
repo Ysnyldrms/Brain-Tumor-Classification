@@ -19,6 +19,7 @@ To Detect and Classify Brain Tumor using, CNN and TL; as an asset of Deep Learni
 ### Acknowledgements for Dataset
 
 Navoneel Chakrabarty
+
 Swati Kanchan
 
 Kaggle link : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
